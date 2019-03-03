@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">28340544db00330078cae04a489619d2</block>
+        <connected_to>67aa3b65-002e-4715-b3d8-a79b2e68163c</connected_to>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">cc278d84db00330078cae04a48961934</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>3.5</order>
+        <parent_ui_id>aaf9b906-982d-4cbb-b930-120bb4cc0ff5</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-02 19:58:04</sys_created_on>
+        <sys_id>d8278d84db00330078cae04a4896198f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_d8278d84db00330078cae04a4896198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-02 19:58:04</sys_updated_on>
+        <ui_id>39578f62-7463-440d-9ad7-b9805a3f7727</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=d8278d84db00330078cae04a4896198f"/>
+</record_update>

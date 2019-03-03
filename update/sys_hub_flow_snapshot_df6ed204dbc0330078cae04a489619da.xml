@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"d89d5f77-25ec-47dc-a889-3dcdc7446db8.record.number","label":"4.1➛NeedIt Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_58872_needit_needit_task","column_name":"number"},{"name":"adec56a8-49b6-4c57-9e62-f6564765cded.property_value","label":"1➛property_value","type":"string","base_type":"string"},{"name":"97ac4297-a4cc-4d59-bf19-5ee7b45f7489.calculated_date","label":"2➛calculated_date","type":"string","base_type":"string"},{"name":"8d17d72e-3092-4790-8d99-8981de27fc51.Records","label":"3➛NeedIt Task Records","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"records","base_type":"records"},{"name":"b17e32a0-9430-4746-b9d0-2914399b8c1f.item","label":"4➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"}]</label_cache>
+        <name>Close overdue NeedIt Task</name>
+        <parent_flow display_value="Close overdue NeedIt Task">71789a00dbc0330078cae04a489619c8</parent_flow>
+        <remote_trigger_id/>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-03 02:19:28</sys_created_on>
+        <sys_id>df6ed204dbc0330078cae04a489619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Close overdue NeedIt Task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_df6ed204dbc0330078cae04a489619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-03 02:19:28</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>
